@@ -1,0 +1,18 @@
+#admin-list{
+    width: 100%;
+    
+}
+.bootstrap-select{
+    float: right !important;
+    margin-right: 40px !important;
+    margin-top: 10px !important;
+}
+#dropmenu{
+    margin-top: 100px;
+    margin-left: -150px;
+}
+
+#pagination-container{
+    float:right;
+    padding: 5px;
+}
